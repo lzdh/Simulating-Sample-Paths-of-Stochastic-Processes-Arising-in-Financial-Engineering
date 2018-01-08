@@ -32,7 +32,7 @@ for x0=0:0.1:1;
     V0M=[V0M exp(-r*T)*sum(VT(1:M))/M];
 end
 
-% Generate exact option price
+% Generate exact option price (same code with in 'GBM_lookback_exact.m')
 sigm=1;
 tau=T;
 r=0.5;
