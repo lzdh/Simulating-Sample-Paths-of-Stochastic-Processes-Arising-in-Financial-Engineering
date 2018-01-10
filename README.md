@@ -5,3 +5,9 @@
 
 * Report.pdf: Full report of this project
 * scr: Source code for reproducing all the results in the report.
+
+## License
+All content in this repository is openly licensed with a CC BY 4.0, which means you're free to use the materials and remix them so long as you **credit the source**.
+
+If you were to use content from this repo in your own work, please attribute me with a sentence like: 
+> The material is (partially) derived from Zhangdaihong Liu's project "[Simulating Sample Paths of Stochastic Processes Arising in Financial Engineering](https://github.com/lzdh/Simulating-Sample-Paths-of-Stochastic-Processes-Arising-in-Financial-Engineering)".
